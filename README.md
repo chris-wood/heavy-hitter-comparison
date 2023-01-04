@@ -1,4 +1,4 @@
-# Heavy Hitter Comparison
+# [Heavy Hitter Comparison](https://github.com/chris-wood/heavy-hitter-comparison/blob/main/Heavy%20Hitter%20Performance%20Comparison.ipynb)
 
 
 Running the notebook can be done as follows:
